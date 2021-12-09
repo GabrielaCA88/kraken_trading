@@ -16,4 +16,4 @@ The Dahs is interactive with three callbacks impacting on the graph.
 
 Last but not least, I use plotly to plot the information in the classical japanese candlesticks together with the vwap calculated with miner.py.  
 
-Future project: include timezones, further clean the code and improve the UI.  
+Future project: include timezones, further clean the code, integrate cryptopanic news and improve this documentation.  
